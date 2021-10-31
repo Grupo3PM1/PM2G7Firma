@@ -1,0 +1,16 @@
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.csproj.AssemblyReference.cache
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Views\SignaturePage.xaml.g.cs
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.AssemblyInfoInputs.cache
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.AssemblyInfo.cs
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.csproj.CoreCompileInputs.cache
+C:\Xamarin\Firma\Firma\bin\Debug\netstandard2.0\Firma.deps.json
+C:\Xamarin\Firma\Firma\bin\Debug\netstandard2.0\Firma.dll
+C:\Xamarin\Firma\Firma\bin\Debug\netstandard2.0\ref\Firma.dll
+C:\Xamarin\Firma\Firma\bin\Debug\netstandard2.0\Firma.pdb
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.dll
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\ref\Firma.dll
+C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.pdb

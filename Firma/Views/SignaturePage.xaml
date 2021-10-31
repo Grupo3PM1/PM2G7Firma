@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:SignaturePad.Forms;assembly=SignaturePad.Forms"
+             x:Class="Firma.Views.SignaturePage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Margin="10">
+            <Label Text="Laboratorio 2.1" FontSize="Title"
+                    HorizontalOptions="CenterAndExpand" Margin="10" />
+            <controls:SignaturePadView x:Name = "Signature"
+                             StrokeColor      = "Black"
+                             StrokeWidth      = "2"
+                             CaptionText      = "Firma"
+                             CaptionFontSize  = "14"
+                             PromptText       = "X"
+                             PromptFontSize   = "16"
+                             BackgroundColor  = "#CEE3F6"
+                             HeightRequest="200"
+            />
+            <Label Text="Nombre:" FontAttributes="Bold"/>
+            <Entry x:Name="Nombre" Text=""/>
+            <Label Text="Descripcion:" FontAttributes="Bold"/>
+            <Entry x:Name="Descripcion" Text=""/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="70" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <BoxView Grid.Row="0"
+                         Grid.Column="0" />
+                <Button Grid.Row="0"
+                            Grid.Column="0"
+                            Text="Lista Firmas"
+                            VerticalOptions="Center"></Button>
+
+                <BoxView Grid.Row="0"
+                         Grid.Column="1" />
+                <Button Grid.Row="0"
+                            Grid.Column="1"
+                            Text="a SQLite"
+                            Clicked="Button_Clicked"
+                            VerticalOptions="Center"></Button>
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
