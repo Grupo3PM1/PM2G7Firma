@@ -14,3 +14,20 @@ C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.dll
 C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\ref\Firma.dll
 C:\Xamarin\Firma\Firma\obj\Debug\netstandard2.0\Firma.pdb
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\bin\Debug\netstandard2.0\Firma.deps.json
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\bin\Debug\netstandard2.0\Firma.dll
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\bin\Debug\netstandard2.0\ref\Firma.dll
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\bin\Debug\netstandard2.0\Firma.pdb
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Firma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Views\LFirmasPage.xaml.g.cs
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Views\SignaturePage.xaml.g.cs
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Firma.AssemblyInfoInputs.cache
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Firma.AssemblyInfo.cs
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Firma.csproj.CoreCompileInputs.cache
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Firma.dll
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\ref\Firma.dll
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Firma.pdb
+C:\Users\Josue Castro\Source\Repos\PM2G7Firma\Firma\obj\Debug\netstandard2.0\Firma.csproj.AssemblyReference.cache

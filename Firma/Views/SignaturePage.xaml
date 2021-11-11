@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:controls="clr-namespace:SignaturePad.Forms;assembly=SignaturePad.Forms"
              x:Class="Firma.Views.SignaturePage">
-    <ContentPage.Content>
+    <ScrollView>
+
         <StackLayout VerticalOptions="CenterAndExpand" Margin="10">
             <Label Text="Laboratorio 2.1" FontSize="Title"
                     HorizontalOptions="CenterAndExpand" Margin="10" />
@@ -34,7 +35,7 @@
                 <Button Grid.Row="0"
                             Grid.Column="0"
                             Text="Lista Firmas"
-                            VerticalOptions="Center"></Button>
+                            VerticalOptions="Center" Clicked="Button_Clicked_1"></Button>
 
                 <BoxView Grid.Row="0"
                          Grid.Column="1" />
@@ -45,5 +46,5 @@
                             VerticalOptions="Center"></Button>
             </Grid>
         </StackLayout>
-    </ContentPage.Content>
+    </ScrollView>
 </ContentPage>

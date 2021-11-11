@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Xamarin\\Firma\\Firma.Android\\Firma.Android.csproj": {}
+    "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma.Android\\Firma.Android.csproj": {}
   },
   "projects": {
-    "C:\\Xamarin\\Firma\\Firma.Android\\Firma.Android.csproj": {
+    "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma.Android\\Firma.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin\\Firma\\Firma.Android\\Firma.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma.Android\\Firma.Android.csproj",
         "projectName": "Firma.Android",
-        "projectPath": "C:\\Xamarin\\Firma\\Firma.Android\\Firma.Android.csproj",
-        "packagesPath": "C:\\Users\\Daniel Solano\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin\\Firma\\Firma.Android\\obj\\",
+        "projectPath": "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma.Android\\Firma.Android.csproj",
+        "packagesPath": "C:\\Users\\Josue Castro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Daniel Solano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Josue Castro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -34,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Xamarin\\Firma\\Firma\\Firma.csproj": {
-                "projectPath": "C:\\Xamarin\\Firma\\Firma\\Firma.csproj"
+              "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma\\Firma.csproj": {
+                "projectPath": "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma\\Firma.csproj"
               }
             }
           }
@@ -44,6 +42,10 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[3.0.0.12, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.6.1, )"
@@ -51,27 +53,33 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            },
+            "sqlite-net-pcl-ecp": {
+              "target": "Package",
+              "version": "[1.3.3, )"
             }
           }
         }
       }
     },
-    "C:\\Xamarin\\Firma\\Firma\\Firma.csproj": {
+    "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma\\Firma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin\\Firma\\Firma\\Firma.csproj",
+        "projectUniqueName": "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma\\Firma.csproj",
         "projectName": "Firma",
-        "projectPath": "C:\\Xamarin\\Firma\\Firma\\Firma.csproj",
-        "packagesPath": "C:\\Users\\Daniel Solano\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin\\Firma\\Firma\\obj\\",
+        "projectPath": "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma\\Firma.csproj",
+        "packagesPath": "C:\\Users\\Josue Castro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josue Castro\\Source\\Repos\\PM2G7Firma\\Firma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Daniel Solano\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Josue Castro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -104,6 +112,10 @@
               "version": "[2.0.3, )",
               "autoReferenced": true
             },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[3.0.0.12, )"
+            },
             "Xamarin.Controls.SignaturePad.Forms": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -115,6 +127,14 @@
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            },
+            "sqlite-net-pcl-ecp": {
+              "target": "Package",
+              "version": "[1.3.3, )"
             }
           },
           "imports": [
